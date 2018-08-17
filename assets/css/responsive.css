@@ -1,0 +1,310 @@
+
+
+
+
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 1300px) and (max-width: 2300px) {
+
+nav.auto-hide-filter {
+    top: 19%;
+}
+
+.wraper-area {
+    padding-bottom: 600px;
+}
+.img_1 {
+    right: -70%;
+}
+
+.service-area {
+    margin-top: -450px;
+}
+.popup{
+    height: 500px;
+}
+.flex-media {
+    height:  500px;
+}
+
+
+}
+
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+.img_1 {
+    position:  inherit;
+    right:  0;
+}
+
+.jAudio--playlist-item {
+    padding: 22px 15px;
+    position:  relative;
+}
+
+.jAudio--playlist-meta {
+    margin-left: 60px;
+    text-align:  left;
+    position:  absolute;
+    top: 16px;
+}
+.modal_ {
+    width: 70%;
+}
+
+
+
+
+}
+
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.auto-hide-filter:after {
+    width: 690px;
+}
+p.form-message.success {
+    width: 88%;
+}
+.img_1 {
+    position:  inherit;
+    right:  0;
+}
+
+
+.jAudio--playlist-item {
+    padding: 22px 15px;
+    position:  relative;
+}
+
+.jAudio--playlist-meta {
+    margin-left: 60px;
+    text-align:  left;
+    position:  absolute;
+    top: 16px;
+}
+.modal_ {
+    width: 80%;
+}
+
+}
+
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+
+.hero-content h1 {
+	font-size: 30px;
+	line-height: 40px;
+}
+
+.logo h2 {
+    padding-bottom: 50px;
+    font-size: 30px;
+    padding-left: 70px;
+}
+
+.top-area {
+	position: relative;
+	z-index: 999;
+}
+.container{
+	width: auto;
+ } 
+body.expand .menu-area {
+    right: 0;
+    width: 100%;
+    height: auto;
+}
+.menu-area {
+    height: auto;
+}
+.menu-area ul li a {
+    margin: 25px 50px;
+    padding-bottom: 20px;
+}
+
+.faq_filter li {
+    display:  inline-block;
+}
+
+.faq_filter li a {
+    padding: 3px 5px;
+    font-size: 14px;
+}
+.portfolio-right {
+    margin-top: 50px;
+}
+.contact-area input[type="submit"] {
+    padding: 16px 100px;
+}
+.auto-hide-filter:after {
+   display: none;
+}
+
+.contact-area button {
+    padding: 16px 80px;
+}
+
+.top-area {
+    position:  fixed;
+    z-index:  99;
+}
+p.form-message.success {
+    border: 2px solid #35d078;
+    padding: 14px;
+    margin-top: 20px;
+    width: 75%;
+    bottom: 10%;
+}
+.img_1 {
+    position: inherit;
+    right: 0;
+    margin-bottom: 90px;
+}
+
+.sta_btn a {
+    padding: 11px 40px;
+    margin-top: 15px;
+    font-size: 16px;
+}
+.service-area {
+    padding-bottom: 125px;
+    margin-top: -450px;
+}
+.contact-area {
+    margin-top:  0px;
+}
+
+.portfolio-shadow {
+    padding-bottom:  0px;
+}
+
+
+
+.wrapper {
+    width: 150px;
+    left: auto;
+    right:  0;
+}
+
+button.modal-toggle {
+    padding:  14px 14px;
+    font-size:  14px;
+}
+
+a.btn.btn-primary.btn-has-icon.vid-popup {
+    padding: 16px 7px;
+    font-size:  14px;
+}
+
+a.btn.btn-primary.btn-has-icon.vid-popup i {
+    margin-left:  2px;
+}
+
+
+
+
+.modal_ {
+    width: 97%;
+    left: 0!important;
+    transform:  translateX(0)translateY(0);
+    top: 11%!important;
+}
+
+.modal-close {
+    padding:  4px!important;
+    background:  none;
+    right:  10px;
+    top:  5px;
+}
+
+.modal-body {}
+
+.mp3_list_ara .modal-body {
+    padding:  0px;
+}
+
+.jAudio {
+    width: 60%;
+}
+
+.modal-wrapper {
+    height: 400px;
+}
+
+.jAudio--status-bar {
+    padding: 72px 2rem 2rem 2rem;
+}
+
+.jAudio--playlist {
+    width:  38%;
+    height: 311px;
+}
+
+.jAudio--playlist-item {
+    padding:  10px;
+    padding-bottom:  6px;
+}
+
+.jAudio--playlist-thumb {
+    float:  inherit;
+    display:  block;
+}
+
+.jAudio--playlist-meta {
+    margin-left: 5px;
+    text-align:  left;
+    margin-top:  9px;
+}
+
+p.jAudio--playlist-meta-track-name {
+    line-height:  15px;
+}
+
+}
+    
+ 
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+.auto-hide-filter:after {
+    width: 490px;
+    display: block;
+}
+.contact-area button {
+    padding: 16px 110px;
+}
+p.form-message.success {
+    border: 2px solid #35d078;
+    padding: 22px;
+    margin-top: 20px;
+    width: 82%;
+    bottom: 11%;
+}
+
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
