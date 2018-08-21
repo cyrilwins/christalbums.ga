@@ -4,9 +4,9 @@
     playlist: [
       {
         file: "resources/tracks/02.mp3",
-        thumb: "resources/thumbs/04.jpg",
-        trackName: "New song",
-        trackArtist: "Tobu & Syndec",
+        thumb: "resources/thumbs/01.jpg",
+        trackName: "Hold On",
+        trackArtist: "Janine Victorio",
         trackAlbum: "Single",
       },
 
@@ -15,38 +15,14 @@
 
       {
         file: "resources/tracks/02.mp3",
-        thumb: "resources/thumbs/02.jpg",
-        trackName: "Blank",
-        trackArtist: "Disfigure",
+        thumb: "resources/thumbs/00.jpg",
+        trackName: "Coming Soon",
+        trackArtist: "",
         trackAlbum: "Single",
       },
 
 
-      {
-        file: "resources/tracks/04.mp3",
-        thumb: "resources/thumbs/04.jpg",
-        trackName: "Blank",
-        trackArtist: "Disfigure",
-        trackAlbum: "Single",
-      },
-
-
-      {
-        file: "resources/tracks/02.mp3",
-        thumb: "resources/thumbs/02.jpg",
-        trackName: "Blank",
-        trackArtist: "Disfigure",
-        trackAlbum: "Single",
-      },
-
-
-      {
-        file: "resources/tracks/03.mp3",
-        thumb: "resources/thumbs/03.jpg",
-        trackName: "Fade",
-        trackArtist: "Alan Walker",
-        trackAlbum: "Single",
-      }
+      
     ]
   }
 
